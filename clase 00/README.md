@@ -9,7 +9,7 @@
  - me gusta mi espacio y mi soledad 
  - necesito musica para vivir
  - no creo nada de este mundo (los doctores, los medios y la historia)
- - amo con toda mi alma a mi gata rodolpha
+ - amo mi gata rodolpha
 
 /// tercera mesa
 - Después de todo, las cosas son siempre singulares, mientras que el conocimiento es siempre de los universales (verde, pesado, cuadrado); y los universales pertenecen a muchas otras cosas… Y este es precisamente el punto: ninguna filosofía está a la altura de su nombre si trata de convertir los objetos en las condiciones por las cuales son conocidos o verificados.”
