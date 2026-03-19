@@ -32,3 +32,5 @@ zapatos de un labriego"
 y todo esto gira en torno tambien de la cosmologia.
 hay secretos ocultos en lo imperceptible, hay existencia y arte en lo inhabitable y no palpable.
 el objeto emaga energia al igual que nuestras ideas y nuestra forma de ver estas cosas o la vida o el arte, nuestra percepcion y lo que somos capaces de observar es la causa de la existencia.
+/// estetica cosmologia
+- la relacion de los objetos genera una estetica, segun la percepcion de los objetos y tambien del espectador ante esta erelacion estetica. 
