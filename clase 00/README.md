@@ -1,12 +1,12 @@
 # clase 00
  /// 10 cualidades 
- - soy una persona maniatica
+ - soy maniatica
  - tengo una coraza 
  - me emociona ver las aves volar, los peces nadar y los perritos caminar 
  - escucho musica todo el dia
  - soy disfuncional 
  - me cuesta la realidad 
- - me gusta vivir sola y mi soledad 
+ - me gusta mi espacio y mi soledad 
  - necesito musica para vivir
  - no creo nada de este mundo (los doctores, los medios y la historia)
  - amo con toda mi alma a mi gata rodolpha
