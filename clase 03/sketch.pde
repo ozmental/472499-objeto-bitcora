@@ -218,9 +218,6 @@ void keyPressed() {
     println("Velocidad: " + velocidad);
   }
 
-  ## se uso IA para este codigo
-  
-
   if (keyCode == DOWN) {
     velocidad = max(velocidad - 1, 1);  // Reduce velocidad (mínimo 1)
     println("Velocidad: " + velocidad);
