@@ -1,4 +1,3 @@
-## Sketch processing
 
 /**
  * Visualización de Datos Sonora
@@ -65,4 +64,3 @@ void draw() {
   }
 }
 
-## se uso IA para la realizacion de este codigo de processing 
