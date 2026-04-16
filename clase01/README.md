@@ -2,7 +2,7 @@
 
 ## apuntes de clase 
 
-## mi prinmera imagen jiji
+## mi prinmera imagen 
 
 ![](./carabineroenllamas.jpg)
 
