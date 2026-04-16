@@ -1,7 +1,7 @@
 2 Objetosssss
-
 1.mis audifonos jbl wave buds 2
 
+![](./audifonos.jpg)
 
 -inalambricos 
 -negros 
@@ -15,6 +15,8 @@
 -livianos 
 
 2.mi parlante jbl
+
+![](./parlante.jpg)
 
    -logo en relieve
    -letras grandes
