@@ -1,12 +1,4 @@
 
-/**
- * Visualización de Datos Sonora
- * Basado en datos de Sensor Logger (dBFS normalizados 0-100)
- * * AVISO: Código generado con asistencia de IA (Gemini 3 Flash).
- * Variaciones aplicadas: 
- * 1. Implementación de un sistema de partículas que reaccionan a la amplitud.
- * 2. Mapeo de color asimétrico para resaltar los picos de sonido.
- */
 
 Table table;
 int currentRow = 0;
