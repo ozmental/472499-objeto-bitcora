@@ -2,7 +2,7 @@
 
 ## apuntes de clase 
 
-## mi prinmera imagen 
+## mi primera imagen 
 
 ![](./carabineroenllamas.jpg)
 
