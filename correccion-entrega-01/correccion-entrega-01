@@ -1,7 +1,7 @@
 ## correcciones que hice con claude!
 
 el proble era que el CSV tiene 4 columnas y la primera se llama time, no valor_normalizado por eso el sketch no dibujaba nada xd
-## cambiare el csv o el codigo???
+## cambiar el csv o el codigo???
 Se cambio el codigo, en amplitude = table.getFloat(currentRow, "valor_normalizado (0-100)") se le agrega el 0-100 que le faltaba por que asi se 
 llamaba la fila de los datos
 
