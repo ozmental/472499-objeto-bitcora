@@ -4,9 +4,8 @@
 
 
 ### Integrantes
-* [Nombre Integrante 1]
-* [Nombre Integrante 2]
-* [Nombre Integrante 3]
+* Natalia Escobar
+* Alondra Stay
 
 
 ## Statement de la obra
