@@ -5,7 +5,7 @@
 
 ### Integrantes
 * Natalia Escobar
-* Alondra Stay
+* Alondra Estay
 
 
 ## Statement de la obra
